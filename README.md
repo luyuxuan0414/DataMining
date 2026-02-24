@@ -6,6 +6,11 @@
 本專案利用 Natural Language Processing (NLP) 與 Machine Learning 技術，
 建立一個預測模型，旨在準確辨識哪些推文描述的是真實災難（Real Disasters），哪些則不是。
 
+<img width="932" height="517" alt="image" src="https://github.com/user-attachments/assets/31b4a468-bdcb-42db-b437-5dd4557208a9" />
+
+<img width="923" height="512" alt="image" src="https://github.com/user-attachments/assets/23e8d5ba-6820-431c-9192-a4cf940ebe5a" />
+
+
 ## 核心流程 (Core Workflow)
 
 1.資料預處理 (Data Preprocessing):
@@ -22,6 +27,6 @@
 
 ## 書面報告
 ---
-[書面報告.pdf](書面報告.pdf):說明整個系統的操作流程，及功能操作說明。
+[書面報告](書面報告.pdf)
 
-[簡報.pdf](https://github.com/luyuxuan0414/DataMining/blob/main/Disaster%20tweets%20or%20not.pdf)
+[簡報](https://github.com/luyuxuan0414/DataMining/blob/main/Disaster%20tweets%20or%20not.pdf)
