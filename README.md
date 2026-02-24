@@ -22,7 +22,7 @@
 
 ## 書面報告
 ---
-[書面報告.pdf](https://github.com/luyuxuan0414/movie.github.io/blob/main/%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8A.pdf):說明整個系統的操作流程，及功能操作說明。
+[書面報告.pdf](書面報告.pdf):說明整個系統的操作流程，及功能操作說明。
 
 [測試報告書.pdf](https://github.com/luyuxuan0414/movie.github.io/blob/main/%E6%B8%AC%E8%A9%A6%E5%A0%B1%E5%91%8A%E6%9B%B8%20.pdf)：顯示我們的系統回測效果。
 
